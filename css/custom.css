@@ -1,0 +1,32 @@
+body{
+
+	background-color: #222C2E;
+	color:#FEFDF9;
+}
+
+h1, h2 , h3, h4, h5	{
+	color:#D8B57A;
+	text-align: right;
+}
+
+h1	{
+    margin-bottom: .5rem;
+
+}
+
+p{
+
+	color:#FEFDF9;
+}
+
+
+
+.first-row	{
+	margin-top:25%;
+	
+}
+
+.text-right	{
+
+	text-align: right;
+}
